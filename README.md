@@ -86,3 +86,10 @@ Add support for live stock data fetching using yfinance or pandas_datareader.
 Improve visualizations with interactive charts (e.g., Plotly).
 
 Extend predictions to other companies.
+
+
+
+
+📜 License
+
+This project is open-source and available under the MIT License.
