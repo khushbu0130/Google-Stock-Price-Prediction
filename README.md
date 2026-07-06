@@ -3,7 +3,7 @@
 This project predicts Google’s stock price using Facebook Prophet, a powerful time series forecasting library. The dataset is processed, visualized, and forecasted for future stock price trends.
 
 
-
+---
 📂 Project Structure
 
 google_stock_price.py → Main script for data preprocessing, visualization, and stock price prediction.
@@ -11,7 +11,7 @@ google_stock_price.py → Main script for data preprocessing, visualization, and
 Dataset.xlsx → Input dataset (Google stock historical data).
 
 
-
+---
 ⚙️ Requirements
 
 Make sure you have the following Python libraries installed:
@@ -21,7 +21,7 @@ pip install pandas numpy matplotlib pandas_datareader prophet openpyxl
 
 
 
-
+--
 ▶️ How to Run
 
 1. Clone this repository:
@@ -52,7 +52,7 @@ Plot prediction and trend components.
 
 
 
-
+---
 📊 Sample Outputs
 
 Historical stock price visualization.
@@ -64,7 +64,7 @@ Trend and seasonal components analysis.
 
 
 
-
+---
 🛠️ Technologies Used
 
 Python
@@ -77,7 +77,7 @@ Prophet
 
 
 
-
+---
 
 🚀 Future Improvements
 
@@ -89,7 +89,7 @@ Extend predictions to other companies.
 
 
 
-
+---
 📜 License
 
 This project is open-source and available under the MIT License.
